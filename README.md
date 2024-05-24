@@ -31,8 +31,8 @@ Users can interact with the dashboard by selecting filters, such as department, 
 The Power BI dashboard offers a visually compelling and interactive platform for exploring attrition data and deriving actionable insights. By leveraging the power of data visualization, stakeholders can make informed decisions and implement targeted strategies to reduce attrition, improve employee satisfaction, and enhance organizational performance.
 
 
-Support:
+## Support:
 For inquiries or assistance regarding the dashboard, please contact Me. We welcome feedback and suggestions for improving the dashboard and enhancing its usability.
 
-Disclaimer:
+## Disclaimer:
 The information presented in this dashboard is based on the available data and analysis conducted by me. While efforts have been made to ensure accuracy, the dashboard should be used for informational purposes only, and decisions should be made based on additional factors and expert consultation.
